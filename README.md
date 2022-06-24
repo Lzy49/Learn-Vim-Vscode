@@ -18,3 +18,5 @@
 - Day 15 掌握多窗口切换。
 - Day 16 如何删除一个函数
 - Day 17 掌握宏
+- Day 18 配置vim调用vscode 快捷键的方法
+- Day 19 vscode 关于文件的快捷键
