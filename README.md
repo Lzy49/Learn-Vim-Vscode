@@ -21,3 +21,4 @@
 - Day 18 配置vim调用vscode 快捷键的方法
 - Day 19 vscode 关于文件的快捷键
 - Day 20 多窗口切换
+- Day 21 文件搜索&多文件切换
