@@ -27,3 +27,7 @@
 - Day 24 Git
 - Day 25 代码片段
 - Day 26 重构
+- Day 27 
+- Day 28 lazyGit
+- Day 29 终端
+- Day 30 debug
