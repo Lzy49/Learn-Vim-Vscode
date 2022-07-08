@@ -31,3 +31,4 @@
 - Day 28 lazyGit
 - Day 29 终端
 - Day 30 debug
+- Day 31 浏览器vim
