@@ -32,3 +32,4 @@
 - Day 29 终端
 - Day 30 debug
 - Day 31 浏览器vim
+- Day 33 搜索&查找
